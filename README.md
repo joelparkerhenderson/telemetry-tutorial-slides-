@@ -1,0 +1,15 @@
+# Telemetry tutorial slides
+
+![00-rockets.png](00-rockets.png)
+![01-opentelemetry.png](01-opentelemetry.png)
+![02-telemetry-1-metrics.png](02-telemetry-1-metrics.png)
+![03-telemetry-2-logs.png](03-telemetry-2-logs.png)
+![04-telemetry-3-traces.png](04-telemetry-3-traces.png)
+![05-telemetry-4-lines.png](05-telemetry-4-lines.png)
+![06-telemetry-5-labels.png](06-telemetry-5-labels.png)
+![07-grafana.png](07-grafana.png)
+![08-grafana-dashboard.png](08-grafana-dashboard.png)
+![09-echarts.png](09-echarts.png)
+![10-echarts-examples.png](10-echarts-examples.png)
+![11-dora.png](11-dora.png)
+![12-pyramid.png](12-pyramid.png)
